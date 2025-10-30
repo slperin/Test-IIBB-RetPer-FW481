@@ -1,0 +1,12 @@
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.vbproj.AssemblyReference.cache
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\ConsoleApp1.Resources.resources
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.vbproj.GenerateResource.cache
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.vbproj.CoreCompileInputs.cache
+D:\VB.NET\Test-IIBB-RetPer\bin\Debug\Test-IIBB-RetPer.exe.config
+D:\VB.NET\Test-IIBB-RetPer\bin\Debug\Test-IIBB-RetPer.exe
+D:\VB.NET\Test-IIBB-RetPer\bin\Debug\Test-IIBB-RetPer.pdb
+D:\VB.NET\Test-IIBB-RetPer\bin\Debug\Test-IIBB-RetPer.xml
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.exe
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.xml
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.pdb
+D:\VB.NET\Test-IIBB-RetPer\obj\Debug\Test-IIBB-RetPer.exe.config
