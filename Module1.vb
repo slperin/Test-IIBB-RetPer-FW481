@@ -6,11 +6,11 @@ Imports System.Text
 Module IIBBRetPer
 
   'Variables Input
-  Public Usuario As String = "23141716999" 'CUIT asociado a la contraseña
-  Public Password As String = "VWkdl106*"
-  Public Cuit As String = "20141717287" 'CUIT a consultar
-  Public FechaDesde As String = "20251001"
-  Public FechaHasta As String = "20251031"
+  Public Usuario As String = "" 'CUIT asociado a la contraseña
+  Public Password As String = ""
+  Public Cuit As String = "" 'CUIT a consultar
+  Public FechaDesde As String = ""
+  Public FechaHasta As String = ""
   Public Testing As Boolean = False
 
   Sub Main()
